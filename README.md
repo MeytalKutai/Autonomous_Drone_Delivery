@@ -63,14 +63,12 @@ python main.py
 #### Technologies Used
 *  Python – Main control logic and communication.
 *  DJI Mobile SDK – Enables connection to the drones via Android.
-*  OpenCV & NumPy – Used for sensor data processing (if applicable).
+*  OpenCV & NumPy – Used for sensor data processing.
 
 
 #### Contributing
 If you'd like to contribute, feel free to fork the repository, submit pull requests, or report issues.
 
-#### License
-This project is licensed under the MIT License.
 
 #### Acknowledgments
 This project is inspired by previous work on PC-to-Drone communication: [DJI-MSDK-to-PC](https://github.com/Penkov-D/DJI-MSDK-to-PC). <br>
